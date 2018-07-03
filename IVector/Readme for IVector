@@ -1,0 +1,5 @@
+To make this implementation of Ivector work you have to first download the dependent toolbox from microsoft website. 
+1. To download the toolbox : Google MSR Identity Toolbox, The first link will direct you to the toolbox download on microsoft's website.
+2. Then extract that toolbox into your MATLAB Directory and put this Ivector UBM code in that directory as well.
+3. Just run this file, you will get a confusion matrix and vectors X and Y (if you type them) which represents the data points on the ROC curve.
+4. Which is what is already plotted for you in the ivector_ROC.png file.
